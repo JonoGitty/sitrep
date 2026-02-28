@@ -1,0 +1,13 @@
+{
+  "name": "sitrep",
+  "version": "1.0.0",
+  "description": "Live geopolitical news tracker dashboard",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "briefing": "node scripts/generate-briefing.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.4"
+  }
+}

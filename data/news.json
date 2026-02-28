@@ -1,0 +1,281 @@
+{
+  "lastUpdated": "2026-02-28T14:30:00Z",
+  "articleCount": 25,
+  "articles": [
+    {
+      "id": "a1b2c3d4e5f60001",
+      "title": "Ukraine Launches Major Counter-Offensive in Eastern Donbas Region",
+      "source": "Reuters",
+      "url": "https://reuters.com/world/europe/ukraine-counter-offensive",
+      "publishedAt": "2026-02-28T14:15:00Z",
+      "categories": ["ukraine", "conflicts", "europe"],
+      "primaryCategory": "ukraine",
+      "snippet": "Ukrainian forces have launched a significant counter-offensive operation in the eastern Donbas region, recapturing several key positions according to military officials in Kyiv.",
+      "isBreaking": true
+    },
+    {
+      "id": "a1b2c3d4e5f60002",
+      "title": "Trump Announces Sweeping New Tariffs on European Union Steel and Aluminum",
+      "source": "NYT",
+      "url": "https://nytimes.com/2026/02/28/politics/trump-eu-tariffs",
+      "publishedAt": "2026-02-28T13:45:00Z",
+      "categories": ["us-politics", "trade-economy", "europe"],
+      "primaryCategory": "us-politics",
+      "snippet": "President Trump announced a new round of tariffs targeting European steel and aluminum imports, escalating trade tensions with the bloc and prompting swift condemnation from Brussels.",
+      "isBreaking": true
+    },
+    {
+      "id": "a1b2c3d4e5f60003",
+      "title": "Israel-Hamas Ceasefire Talks Resume in Cairo Amid Rising Tensions",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/2/28/israel-hamas-ceasefire-cairo",
+      "publishedAt": "2026-02-28T13:00:00Z",
+      "categories": ["middle-east", "conflicts"],
+      "primaryCategory": "middle-east",
+      "snippet": "Negotiations between Israeli and Hamas delegations have resumed in Cairo, with mediators pushing for an extended ceasefire amid escalating humanitarian concerns in Gaza.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60004",
+      "title": "China Conducts Large-Scale Military Exercises Near Taiwan Strait",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-asia-china-taiwan-exercises",
+      "publishedAt": "2026-02-28T12:30:00Z",
+      "categories": ["china", "asia", "conflicts"],
+      "primaryCategory": "china",
+      "snippet": "China's People's Liberation Army has begun large-scale military exercises in the waters surrounding Taiwan, deploying naval vessels and aircraft in what Beijing calls routine training.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60005",
+      "title": "NATO Allies Agree to Boost Defense Spending to 3% of GDP",
+      "source": "Reuters",
+      "url": "https://reuters.com/world/europe/nato-defense-spending-3-percent",
+      "publishedAt": "2026-02-28T12:00:00Z",
+      "categories": ["europe", "conflicts"],
+      "primaryCategory": "europe",
+      "snippet": "NATO member states have reached a preliminary agreement to raise their defense spending targets to 3% of GDP, responding to growing security threats on the alliance's eastern flank.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60006",
+      "title": "Sudan Conflict Displaces Another 500,000 as Fighting Intensifies in Khartoum",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-africa-sudan-displacement",
+      "publishedAt": "2026-02-28T11:30:00Z",
+      "categories": ["africa", "conflicts"],
+      "primaryCategory": "africa",
+      "snippet": "The ongoing conflict in Sudan has displaced an additional half million people as fighting between the army and Rapid Support Forces intensifies in the capital Khartoum.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60007",
+      "title": "Senate Blocks White House Spending Bill in Late Night Vote",
+      "source": "Politico",
+      "url": "https://politico.com/news/2026/02/28/senate-spending-bill-vote",
+      "publishedAt": "2026-02-28T11:00:00Z",
+      "categories": ["us-politics"],
+      "primaryCategory": "us-politics",
+      "snippet": "The US Senate voted down the administration's latest spending proposal in a dramatic late-night session, with several Republican senators joining Democrats in opposition.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60008",
+      "title": "Putin Warns of Consequences if Western Arms Continue Flowing to Ukraine",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-europe-putin-warning",
+      "publishedAt": "2026-02-28T10:30:00Z",
+      "categories": ["russia", "ukraine", "conflicts"],
+      "primaryCategory": "russia",
+      "snippet": "Russian President Vladimir Putin issued a stern warning to Western nations, saying continued arms deliveries to Ukraine would have serious consequences for European security.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60009",
+      "title": "OPEC+ Debates Production Cuts as Oil Prices Slide Below $70",
+      "source": "Reuters",
+      "url": "https://reuters.com/business/energy/opec-production-cuts-oil",
+      "publishedAt": "2026-02-28T10:00:00Z",
+      "categories": ["trade-economy", "middle-east"],
+      "primaryCategory": "trade-economy",
+      "snippet": "OPEC+ members are considering deeper production cuts as crude oil prices continue their downward trend, falling below $70 per barrel for the first time in months.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60010",
+      "title": "India and Japan Sign Major Defense Cooperation Agreement",
+      "source": "NYT",
+      "url": "https://nytimes.com/2026/02/28/world/asia/india-japan-defense-pact",
+      "publishedAt": "2026-02-28T09:30:00Z",
+      "categories": ["asia"],
+      "primaryCategory": "asia",
+      "snippet": "India and Japan have signed a landmark defense cooperation agreement covering joint military exercises, technology sharing, and maritime security in the Indo-Pacific region.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60011",
+      "title": "Houthi Rebels Launch New Attacks on Commercial Shipping in Red Sea",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/2/28/houthi-red-sea-shipping",
+      "publishedAt": "2026-02-28T09:00:00Z",
+      "categories": ["middle-east", "conflicts", "trade-economy"],
+      "primaryCategory": "middle-east",
+      "snippet": "Yemen's Houthi rebels have launched another wave of attacks on commercial vessels in the Red Sea, forcing major shipping companies to reroute around the Cape of Good Hope.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60012",
+      "title": "EU Imposes New Sanctions Package on Russia Targeting Energy Sector",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-europe-eu-russia-sanctions",
+      "publishedAt": "2026-02-28T08:30:00Z",
+      "categories": ["europe", "russia", "trade-economy"],
+      "primaryCategory": "europe",
+      "snippet": "The European Union has adopted its latest package of sanctions against Russia, targeting key energy companies and introducing new restrictions on technology exports.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60013",
+      "title": "North Korea Tests New Ballistic Missile Capable of Reaching US Mainland",
+      "source": "NYT",
+      "url": "https://nytimes.com/2026/02/28/world/asia/north-korea-missile-test",
+      "publishedAt": "2026-02-28T08:00:00Z",
+      "categories": ["asia", "conflicts"],
+      "primaryCategory": "asia",
+      "snippet": "North Korea has conducted a test launch of a new intercontinental ballistic missile, with analysts estimating it has the range to strike the continental United States.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60014",
+      "title": "Macron Calls for European Strategic Autonomy in Major Defense Speech",
+      "source": "Reuters",
+      "url": "https://reuters.com/world/europe/macron-european-defense-speech",
+      "publishedAt": "2026-02-28T07:30:00Z",
+      "categories": ["europe", "conflicts"],
+      "primaryCategory": "europe",
+      "snippet": "French President Emmanuel Macron delivered a major address calling for European strategic autonomy, arguing the continent can no longer rely solely on American security guarantees.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60015",
+      "title": "Congress Demands Briefing on Classified Intelligence Sharing with Allies",
+      "source": "Politico",
+      "url": "https://politico.com/news/2026/02/28/congress-intelligence-briefing",
+      "publishedAt": "2026-02-28T07:00:00Z",
+      "categories": ["us-politics"],
+      "primaryCategory": "us-politics",
+      "snippet": "Bipartisan lawmakers are demanding a classified briefing from intelligence agencies regarding the scope and protocols of intelligence sharing arrangements with allied nations.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60016",
+      "title": "Xi Jinping Meets South China Sea Claimant Nations in Beijing Summit",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-asia-xi-south-china-sea-summit",
+      "publishedAt": "2026-02-28T06:30:00Z",
+      "categories": ["china", "asia"],
+      "primaryCategory": "china",
+      "snippet": "Chinese President Xi Jinping has convened leaders from Southeast Asian nations with competing South China Sea claims in a summit aimed at establishing a new code of conduct.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60017",
+      "title": "Zelenskyy Urges Faster Western Weapons Deliveries in Emotional Address",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/2/28/zelenskyy-weapons-address",
+      "publishedAt": "2026-02-28T06:00:00Z",
+      "categories": ["ukraine", "europe", "conflicts"],
+      "primaryCategory": "ukraine",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy delivered an emotional address to European leaders, urging faster delivery of promised weapons systems as front-line conditions deteriorate.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60018",
+      "title": "Federal Reserve Signals Potential Rate Cut Amid Economic Slowdown",
+      "source": "NYT",
+      "url": "https://nytimes.com/2026/02/28/business/economy/fed-rate-cut-signal",
+      "publishedAt": "2026-02-28T05:30:00Z",
+      "categories": ["trade-economy", "us-politics"],
+      "primaryCategory": "trade-economy",
+      "snippet": "Federal Reserve officials have signaled openness to cutting interest rates in the coming months as economic indicators point to a slowdown in growth and consumer spending.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60019",
+      "title": "Ethiopia-Eritrea Border Tensions Flare as Troops Mobilize",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-africa-ethiopia-eritrea-border",
+      "publishedAt": "2026-02-28T05:00:00Z",
+      "categories": ["africa", "conflicts"],
+      "primaryCategory": "africa",
+      "snippet": "Tensions between Ethiopia and Eritrea have escalated sharply, with both nations reportedly mobilizing military forces along their shared border amid a collapse in diplomatic talks.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60020",
+      "title": "Iran Nuclear Talks Hit Impasse Over Enrichment Levels",
+      "source": "Reuters",
+      "url": "https://reuters.com/world/middle-east/iran-nuclear-talks-impasse",
+      "publishedAt": "2026-02-28T04:30:00Z",
+      "categories": ["middle-east", "us-politics"],
+      "primaryCategory": "middle-east",
+      "snippet": "International negotiations over Iran's nuclear program have reached an impasse, with Tehran refusing to reduce uranium enrichment levels below 60 percent as demanded by Western powers.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60021",
+      "title": "South Korea Announces $50 Billion Semiconductor Investment Plan",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-asia-south-korea-semiconductor",
+      "publishedAt": "2026-02-28T04:00:00Z",
+      "categories": ["asia", "trade-economy"],
+      "primaryCategory": "asia",
+      "snippet": "South Korea has unveiled a massive $50 billion investment plan to expand domestic semiconductor manufacturing capacity, aiming to reduce dependence on global supply chains.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60022",
+      "title": "Kremlin Dismisses Peace Proposal as Unacceptable, Demands Territory Recognition",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/2/28/kremlin-peace-proposal-rejected",
+      "publishedAt": "2026-02-28T03:30:00Z",
+      "categories": ["russia", "ukraine", "conflicts"],
+      "primaryCategory": "russia",
+      "snippet": "The Kremlin has dismissed the latest international peace proposal for Ukraine as unacceptable, reiterating its demand for recognition of territorial gains before any ceasefire.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60023",
+      "title": "UK Prime Minister Starmer Faces Backbench Revolt Over Defense Budget",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/uk-politics-starmer-defense-budget",
+      "publishedAt": "2026-02-28T03:00:00Z",
+      "categories": ["europe", "us-politics"],
+      "primaryCategory": "europe",
+      "snippet": "British Prime Minister Keir Starmer is facing a growing rebellion from Labour backbenchers opposed to increasing the defense budget to meet NATO's new 3% GDP spending target.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60024",
+      "title": "Global Shipping Costs Surge 40% Due to Red Sea Crisis and Trade Disruptions",
+      "source": "NYT",
+      "url": "https://nytimes.com/2026/02/28/business/global-shipping-costs-surge",
+      "publishedAt": "2026-02-28T02:30:00Z",
+      "categories": ["trade-economy", "middle-east"],
+      "primaryCategory": "trade-economy",
+      "snippet": "Global container shipping costs have surged by 40% as the ongoing Houthi attacks in the Red Sea and new trade barriers disrupt major commercial routes worldwide.",
+      "isBreaking": false
+    },
+    {
+      "id": "a1b2c3d4e5f60025",
+      "title": "Nigeria Deploys Military to Combat Rising Insurgency in North-East",
+      "source": "BBC",
+      "url": "https://bbc.co.uk/news/world-africa-nigeria-military-insurgency",
+      "publishedAt": "2026-02-28T02:00:00Z",
+      "categories": ["africa", "conflicts"],
+      "primaryCategory": "africa",
+      "snippet": "The Nigerian military has launched a new operation in the country's north-east to counter a resurgence of militant activity, deploying additional troops and air assets to the region.",
+      "isBreaking": false
+    }
+  ]
+}
